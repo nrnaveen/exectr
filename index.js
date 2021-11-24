@@ -46,4 +46,5 @@ let start = new Date(),
     } catch (e) {
         console.error(e);
     }
+
 })();
